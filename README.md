@@ -1,2 +1,2 @@
 # GoPiGoCrap
-Random snippets of code desinged to run on the gopigo
+Random snippets of code designed to run on the gopigo
